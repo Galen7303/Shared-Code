@@ -1,0 +1,1 @@
+windbg -y srv*c:\symbols -p%1
